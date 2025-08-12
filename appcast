@@ -5,7 +5,11 @@
         <item>
             <title>Version 1.0.3</title>
             <description>업데이트내용</description>
+            <pubDate>Sun, 1/1/2022 12:00:00 +0000</pubDate>
             <enclosure url="itms-beta//beta.itunes.apple.com/v1/app/6749525509" sparkle:version="1.0.6" sparkle:os="ios" />
+            <sparkle:tags>
+                <sparkle:criticalUpdate/>
+            </sparkle:tags>
         </item>
     </channel>
 </rss>
